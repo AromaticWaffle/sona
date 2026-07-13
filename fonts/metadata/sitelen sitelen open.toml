@@ -1,14 +1,14 @@
-#:schema ../../api/generated/font.json
-id        = "sitelen sitelen open"
-name      = "sitelen sitelen open"
-filename  = "sitelen-sitelen-open.ttf"
-creator   = ["jan lili Enta (encoding)","jan Josan (original glyphs only)"]
-license   = "CC BY 4.0"
+#:schema ../../api/generated/v2/font.json
+id = "sitelen sitelen open"
+name = "sitelen sitelen open"
+filename = "sitelen-sitelen-open.ttf"
+author = ["jan lili Enta (encoding)","jan Josan (original glyphs only)"]
+license  = "CC BY 4.0"
 ligatures = true
-ucsur     = true
+ucsur = true
 writing_system = "sitelen sitelen" # must be one of the following: 
-                                # "sitelen pona","sitelen sitelen","alphabet","syllabary","logography",
-                                # "tokiponido alphabet","tokiponido syllabary","tokiponido logography"
+# "sitelen pona","sitelen sitelen","alphabet","syllabary","logography",
+# "tokiponido alphabet","tokiponido syllabary","tokiponido logography"
 
 last_updated = "2026-07"
 version      = "1.2"
@@ -24,7 +24,7 @@ features = [
   # "name glyphs",
   # "character variants",
   # "Linku common & uncommon 2024"   # nimisin
-  "all ku suli",                   
+  "all ku suli"
   # "all UCSUR 2022 words",          # kokosila, apeja, pake, powe
   # "community requested nimisin",
 
