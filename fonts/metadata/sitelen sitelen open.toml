@@ -3,7 +3,7 @@ id = "sitelen sitelen open"
 name = "sitelen sitelen open"
 filename = "sitelen-sitelen-open.ttf"
 author = ["jan lili Enta (encoding)","jan Josan (original glyphs only)"]
-license  = "CC BY 4.0"
+license = "CC BY 4.0"
 ligatures = true
 ucsur = true
 writing_system = "sitelen sitelen" # must be one of the following: 
@@ -24,7 +24,7 @@ features = [
   # "name glyphs",
   # "character variants",
   # "Linku common & uncommon 2024"   # nimisin
-  "all ku suli"
+  "all ku suli",
   # "all UCSUR 2022 words",          # kokosila, apeja, pake, powe
   # "community requested nimisin",
 
