@@ -11,7 +11,7 @@ writing_system = "sitelen sitelen" # must be one of the following:
 # "tokiponido alphabet","tokiponido syllabary","tokiponido logography"
 
 last_updated = "2026-07"
-version      = "1.2"
+version = "1.2.1"
 
 features = [
   "ASCII transcription and codepoints",
